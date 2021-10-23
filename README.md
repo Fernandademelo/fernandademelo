@@ -6,13 +6,17 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="fer-sa" height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_tJyWosi.png">
- <img align="center" alt="fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="fer-mysql" height="30" width="40" src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg">
-  <img align="center" alt="fer-java" height="30" width="40" src="https://www.pngitem.com/pimgs/m/538-5380039_logo-java-clipart-png-download-java-circle-icon.png">
+  <img align="center" alt="fer-sa" height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_tJyWosi.png">
+  <img align="center" alt="fer-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fer-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fer-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fer-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="fer-mysql" height="40" width="40" src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg">
+  <img align="center" alt="fer-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+ 
+ 
    </div>
    <div>
  <H3> Estudante de Analise e Desenvolvimento de Sistemas.
