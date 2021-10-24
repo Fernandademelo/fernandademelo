@@ -23,7 +23,7 @@
 <br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
 <br><br>
 <h4>Principais aptitudes:
-<br>{HTML/CSS.Materialize 🌸 
+<br>{HTML/CSS.Materialize/Bootstrap🌸 
  <br>/JS
 <br>Java
 <br>Git/Github 🐈 }
