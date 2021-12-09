@@ -3,8 +3,26 @@
    <div>
  Estudante de Analise e Desenvolvimento de Sistemas.
 <br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
+  <br><br> 📖Estudando ativamente QA Testing, Pentesting e Segurança da Informação!
 <br><br>
-HTML/CSS.Materialize.Bootstrap/JS/Java/MySql...Figma, Photoshop, Spark AR, Blender...
+TESTES testlink
+     (ESTUDANDO SELENIUM E OUTROS)<br>
+Segurança da informação
+     (pentesting em estudo)<br>
+METODOLOGIA ÁGIL / DEVOPS<br>
+LINUX<br>
+HTML<br>
+CSS (+ Frameworks)<br>
+JAVASCRIPT<br>
+PYTHON<br>
+JAVA<br>
+BANCO DE DADOS/MYSQL<br>
+WORDPRESS<br>
+PHOTOSHOP <br>
+FIGMA<br>
+CANVA<br>
+BLENDER E OUTROS.<br>
+
  <br>
 </div>
  <div>
