@@ -3,12 +3,11 @@
    <div>
  Estudante de Analise e Desenvolvimento de Sistemas.
 <br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
-  <br><br> 📖Estudando ativamente QA Testing, Pentesting e Segurança da Informação!
+  <br><br> 📖Estudando ativamente JAVA.
 <br><br>
-TESTES testlink
-     (ESTUDANDO SELENIUM E OUTROS)<br>
-Segurança da informação
-     (pentesting em estudo)<br>
+TESTES
+(ESTUDANDO SELENIUM E OUTROS)<br>
+<br>
 METODOLOGIA ÁGIL / DEVOPS<br>
 LINUX<br>
 HTML<br>
