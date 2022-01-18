@@ -4,10 +4,7 @@
  Estudante de Analise e Desenvolvimento de Sistemas.
 <br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
   <br><br> 📖Estudando ativamente JAVA.
-<br><br>
-TESTES
-(ESTUDANDO SELENIUM E OUTROS)<br>
-<br>
+   <br>
 METODOLOGIA ÁGIL / DEVOPS<br>
 LINUX<br>
 HTML<br>
