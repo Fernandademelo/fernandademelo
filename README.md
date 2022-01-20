@@ -5,9 +5,9 @@
 
 
 
-# Analise e Desenvolvimento de Sistemas.
-<br>Atualmente desenvolvendo Filtros com experiência de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
+# 👩‍🎓 Analise e Desenvolvimento de Sistemas
   # 📖Estudando ativamente JAVA.
+   Crio filtros pro Instagram e Facebook como hobby
    <br>
    Outras disciplinas de estudo e habilidades: <br>
  - METODOLOGIA ÁGIL / DEVOPS <br>
@@ -17,7 +17,7 @@
  - JAVASCRIPT <br>
  - PYTHON <br>
  - BANCO DE DADOS (MY SQL,) <br>
- - -DESIGN: PHOTOSHOP, FIGMA, BLENDER...
+ - DESIGN: PHOTOSHOP, FIGMA, BLENDER...
 <br>
 </div>
  <div> 
