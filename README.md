@@ -7,17 +7,25 @@
 
 # 👩‍🎓 Analise e Desenvolvimento de Sistemas
   # 📖Estudando ativamente JAVA.
-   Crio filtros pro Instagram e Facebook como hobby
+   Crio filtros de Realidade Aumentada pro Instagram e Facebook
    <br>
    Outras disciplinas de estudo e habilidades: <br>
- - METODOLOGIA ÁGIL / DEVOPS <br>
- - LINUX <br>
- - HTML <br>
- - CSS <br>
- - JAVASCRIPT <br>
- - PYTHON <br>
- - BANCO DE DADOS (MY SQL,) <br>
- - DESIGN: PHOTOSHOP, FIGMA, BLENDER...
+PACOTE OFFICE
+QA TESTING
+METODOLOGIA ÁGIL / SCRUM
+LINUX
+HTML
+CSS (+ FRAMEWORKS)
+JAVASCRIPT
+PYTHON
+JAVA
+BANCO DE DADOS/ SQL
+(ORACLE/MYSQL E OUTROS)
+WORDPRESS
+PHOTOSHOP
+FIGMA
+CANVA
+BLENDER E OUTROS.
 <br>
 </div>
  <div> 
