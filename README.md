@@ -6,7 +6,7 @@
 
 
 ## 👩‍🎓 Analise e Desenvolvimento de Sistemas
-  ### 📖Estudando ativamente JAVA.
+  ### 📖Estudando ultimamente: JAVA, Docker e Kubernates.
  <br>
  <div> 
  //Contato:
