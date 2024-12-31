@@ -5,7 +5,7 @@
 
 
 
-## 👩‍🎓 Análise e Desenvolvimento de Sistemas
+## Dev backend. 
  <br>
  <div> 
  <div align="right">
