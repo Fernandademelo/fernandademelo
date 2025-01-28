@@ -1,9 +1,4 @@
 ## Olá, Hello, Hola! 
-
- <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandademelo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernandademelo&layout=compact&langs_count=7&theme=omni"/>
-
-
-
 ## Dev backend. 
  <br>
  <div> 
